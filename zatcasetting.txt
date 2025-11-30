@@ -1,0 +1,11 @@
+CommonName = "TST-886431145-399999999900003",
+SerialNumbeer = "1-YAMERP|2-Version1.053|3-contact",
+OrganizationIdentifier = "399999999900003",
+OrganizationUnitName = "شركة توريد التكنولوجيا بأقصى سرعة المحدودة |",
+OrganizationName = "شركة توريد التكنولوجيا بأقصى سرعة المحدودة |",
+Country = "SA",
+InvoiceType = "1100",
+Location = "RRRD2929",
+Industry = "أنشطة توريدات",
+OTP = "123345",
+Environment=2
