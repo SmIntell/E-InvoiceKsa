@@ -1,5 +1,5 @@
 # Watch the full explanation on our YouTube channel.
-www.youtube.com/@SmIntellYe
+https://youtu.be/VKuVqWVdQCw
 
 # SmIntell — ZATCA Integration Test App (C#)
 Small test project demonstrating how to use ZatcaKsaLib.dll to connect with the Saudi Zakat, Tax and Customs Authority (ZATCA) e-invoicing platform.
